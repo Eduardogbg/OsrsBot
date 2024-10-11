@@ -10,13 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a934c9c-1df5-401c-be85-1862717f067b" name="Default Changelist" comment="Fix workspace">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSRSBot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/OSRSBot.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/runelite/client/callback/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/runelite/client/callback/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/RSModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/RSModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/RSObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/RSObjectModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/client_wrapper/BaseClientWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/client_wrapper/BaseClientWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/client_wrapper/RSClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/runelite/rsb/wrappers/client_wrapper/RSClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +92,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="1lnUdVLSWmkt81J803IojbTxJKT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -102,21 +103,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.329653" />
-    <property name="project.structure.side.proportion" value="0.0963939" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jaggar\IdeaProjects\TestRSB" />

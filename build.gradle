@@ -26,20 +26,21 @@ if (supportedCheck) {
 }
 
 static def getRuneLiteVersion() {
-    URL url = new URL("http://repo.runelite.net/net/runelite/client/maven-metadata.xml")
-    URLConnection urlConnection = url.openConnection()
-    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(
-            urlConnection.getInputStream()))
-    String latestName = null
-    String inputLine
-    while ((inputLine = bufferedReader.readLine()) != null) {
-        inputLine = inputLine.trim()
-        if (inputLine.contains("<release>")) {
-            latestName = inputLine.replace("<release>", "").replace("</release>", "")
-        }
-    }
-    bufferedReader.close()
-    return latestName
+    return "1.10.17" // lastSupportedVersion
+    // URL url = new URL("http://repo.runelite.net/net/runelite/client/maven-metadata.xml")
+    // URLConnection urlConnection = url.openConnection()
+    // BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(
+    //         urlConnection.getInputStream()))
+    // String latestName = null
+    // String inputLine
+    // while ((inputLine = bufferedReader.readLine()) != null) {
+    //     inputLine = inputLine.trim()
+    //     if (inputLine.contains("<release>")) {
+    //         latestName = inputLine.replace("<release>", "").replace("</release>", "")
+    //     }
+    // }
+    // bufferedReader.close()
+    // return latestName
 }
 
 dependencies {
